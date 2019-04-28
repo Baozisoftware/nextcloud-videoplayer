@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<info>
+	<id>nextcloud-videoplayer</id>
+	<name>Nextcloud Video Player</name>
+	<description>
+<![CDATA[A responsive video player using a skinned version of Video.js.
+
+*(Modified from official version)*
+
+**Based on this app:**
+
+https://github.com/nextcloud/files_videoplayer
+
+**Video.js:**
+
+http://videojs.com/
+
+**Skin:**
+
+https://www.scriptsmashup.com/Video_Skin_Generator/Videojs/videojs-skin-generator.html]]>
+	</description>
+	<version>1.0.0</version>
+	<licence>GPLv3</licence>
+	<author>Baozisoftware</author>
+	<default_enable/>
+	<documentation>
+		<user>https://github.com/Baozisoftware/nextcloud-videoplayer/blob/master/README.md</user>
+	</documentation>
+	<website>https://github.com/Baozisoftware/nextcloud-videoplayer</website>
+	<bugs>https://github.com/Baozisoftware/nextcloud-videoplayer/issues</bugs>
+	<repository type="git">https://github.com/Baozisoftware/nextcloud-videoplayer.git</repository>
+	<dependencies>
+		<nextcloud min-version="13" max-version="16" />
+	</dependencies>
+</info>
